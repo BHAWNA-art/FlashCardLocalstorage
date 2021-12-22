@@ -1,0 +1,38 @@
+body {
+  background-color: #f3f3f3 !important;
+  color: #333333 !important;
+}
+.btn-outline-success {
+  width: 50%;
+}
+
+#show_div {
+  display: none;
+}
+#Feedback
+{
+  margin-left: 370px;
+}
+.hide {
+  display: none;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+#show_question{
+  margin-left: 750px;
+  margin-top: 3px;
+  width: 120px;
+}
+#show_div{
+  width:380px;
+  margin: auto;
+  padding: 30px;
+  display: none;
+  margin-top: 80px;
+  border-radius: 5px;
+  background-color: whitesmoke;
+  box-shadow: 0 2px 4px 0 black;
+  
+}
